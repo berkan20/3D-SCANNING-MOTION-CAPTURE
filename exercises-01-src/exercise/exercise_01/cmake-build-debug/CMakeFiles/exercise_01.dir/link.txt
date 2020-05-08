@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/exercise_01.dir/main.cpp.o CMakeFiles/exercise_01.dir/FreeImageHelper.cpp.o  -o exercise_01  -lfreeimage 

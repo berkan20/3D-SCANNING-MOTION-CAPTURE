@@ -1,0 +1,3 @@
+/home/berkan/Downloads/exercises-01-src/exercise/exercise_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/berkan/Downloads/exercises-01-src/exercise/exercise_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/berkan/Downloads/exercises-01-src/exercise/exercise_01/cmake-build-debug/CMakeFiles/exercise_01.dir
